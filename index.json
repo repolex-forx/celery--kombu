@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "kombu",
+  "versions": [
+    {
+      "commit": "4a8f695e4627842af8744a477f30b707e5988d20",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:25:15.864669+00:00"
+    }
+  ]
+}
