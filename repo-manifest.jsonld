@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/kombu/commit/4a8f695e4627842af8744a477f30b707e5988d20",
       "git:hexsha": "4a8f695e4627842af8744a477f30b707e5988d20",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/celery/kombu/commit/f4c05ebf185e77778804caaaae4fcbcec259e4a4",
